@@ -1,5 +1,6 @@
 package src.programs;
 
+import java.util.Date;
 import java.util.HashMap;
 
 public class Programs {
@@ -18,5 +19,8 @@ public class Programs {
         System.out.println("Mappings of HshMap hm1 are :" +  hm1);
 
         System.out.println("Mapping of HashMap hm2 are:" + hm2);
+
+
+        Date date = new Date();
     }
 }
